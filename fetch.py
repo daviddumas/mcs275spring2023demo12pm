@@ -1,5 +1,5 @@
 "Fetch a resource from a URL and safe to a file"
-# MCS 275 Spring 2023 Lecture 39
+# MCS 275 Spring 2023 Lecture 39-41
 
 import sys
 from urllib.request import urlopen
